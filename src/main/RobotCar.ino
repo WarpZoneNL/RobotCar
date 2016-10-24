@@ -1,5 +1,5 @@
 /*
-  Patrick's Robot Car v0.03
+  Patrick's Robot Car v0.04
   
   4 Wheels (L293 Quadruple Half-H Drivers Data Sheet)
   Front and Back Ultrasonic Eyes
